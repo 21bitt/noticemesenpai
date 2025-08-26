@@ -20,13 +20,6 @@ As someone who used to dislike technology and digital footprint, I decided to me
 | English                                       |                            |
 
 
-## Tools
--pwnagotchi
-
--bjorn
-
--poserdeck
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
