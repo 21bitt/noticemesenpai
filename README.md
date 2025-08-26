@@ -3,7 +3,7 @@
 
 ## Introduction
 
-As someone who used to dislike technology and creating digital footprint, I decided to meet in the middle and learn about cybersecurity. I would love to be the first line of defense in SOC and face the malicious actors to gain cybersecurity knowledge. Finishing up dual associate degree for networking and cyber security. 
+As someone who used to dislike technology and digital footprint, I decided to meet in the middle and learn about cybersecurity. I would love to be the first line of defense in SOC and face the malicious actors to gain cybersecurity knowledge. Finishing up dual associate degree for networking and cyber security. 
 
 ## Objective
 -Interested in SOC, Cloud security and North Korea threat intelligence
