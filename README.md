@@ -21,7 +21,11 @@ As someone who used to dislike technology and digital footprint, I decided to me
 
 
 ## Tools
+-pwnagotchi
 
+-bjorn
+
+-poserdeck
 
 ### Network
 <div>
