@@ -20,7 +20,7 @@ As someone who used to dislike technology and digital footprint, I decided to me
 | English                                       |                            |
 
 
-### Network
+### Tools
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Pwnagotchi-EF3B2D?&style=for-the-badge&logo=Pwnagotchi&logoColor=white" />
