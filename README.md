@@ -15,6 +15,7 @@ As someone who used to dislike technology and digital footprint, I decided to me
 
 | Skill                                         |                            |
 |-----------------------------------------------|----------------------------|
+|SQL                                            |                            |
 | Python/C++/Bash                               |                            |
 | Korean                                        |                            |
 | English                                       |                            |
