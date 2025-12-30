@@ -15,8 +15,10 @@ As someone who used to dislike technology and digital footprint, I decided to me
 
 | Skill                                         |                            |
 |-----------------------------------------------|----------------------------|
-|SQL                                            |                            |
+| SQL                                           |                            |
 | Python/C++/Bash                               |                            |
+| Windows/Mac/Linux                             |                            |
+| Wireshark                                     |                            |
 | Korean                                        |                            |
 | English                                       |                            |
 
