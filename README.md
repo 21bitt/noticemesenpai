@@ -19,6 +19,12 @@ As someone who used to dislike technology and digital footprint, I decided to me
 | Python/C++/Bash                               |                            |
 | Windows/Mac/Linux                             |                            |
 | Wireshark                                     |                            |
+| Volatility                                    |                            |
+| Autopsy                                       |                            |
+| PEstudio                                      |                            |
+| Wazuh                                         |                            |
+| Snort                                         |                            |
+| Splunk                                        |                            |
 | Korean                                        |                            |
 | English                                       |                            |
 
@@ -44,7 +50,7 @@ As someone who used to dislike technology and digital footprint, I decided to me
 
 -Outstanding Cyber Security Student (2025)
 
--Chancellor's List (2025)
+-Chancellor's List (2025, 2026)
 
 ## Event participated
 -Jolt Cyber Challenge (Little Rock, Arkansas)
