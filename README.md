@@ -82,10 +82,10 @@ I graduated from [UA-PTC](https://www.uaptc.edu/) in 2026 with an **Associate de
 
 | Project | What it is |
 | :--- | :--- |
-| **[Wazuh + Domain Controller lab]([https://github.com/21bitt/SOC-Lab])** | Homelab: Wazuh SIEM wired up to a Windows domain controller |
-| **[Log4Shell lab]([https://github.com/21bitt/SOC-Lab_Docker-Log4Shell/]* | Detection lab for watching Log4Shell land in telemetry |
+| **[Wazuh + Domain Controller lab] [https://github.com/21bitt/SOC-Lab]* | Homelab: Wazuh SIEM wired up to a Windows domain controller |
+| **[Log4Shell lab] [https://github.com/21bitt/SOC-Lab_Docker-Log4Shell/]* | Detection lab for watching Log4Shell land in telemetry |
 | **[LoRa mesh](https://mesh.uaptcstudents.com)** | Award-winning campus LoRa mesh — off-grid comms, student-built. [Live map](https://mesh.uaptcstudents.com) |
-| **[LetsDefend SIEM reports](https://github.com/21bitt/SIEM_SIM_REPORTS)** | 40+ SOC simulation write-ups — alert → investigation → close |
+| **[LetsDefend SIEM reports](https://github.com/21bitt?tab=projects)* | 40+ SOC simulation write-ups — alert → investigation → close |
 
 ---
 
