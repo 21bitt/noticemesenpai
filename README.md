@@ -63,7 +63,7 @@ I graduated from [UA-PTC](https://www.uaptc.edu/) in 2026 with an **Associate de
 - **Outstanding Cybersecurity Student** — 2025
 - **LoRa Project Award** — 2025
 
-## Community & the floor
+## Community
 
 | Event | Where | What |
 | :--- | :--- | :--- |
